@@ -1,2 +1,3 @@
-x=2*3
-print (x)
+x=2*6
+print "hola"
+
