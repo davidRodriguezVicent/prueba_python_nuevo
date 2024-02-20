@@ -1,4 +1,4 @@
-print("hola")
+print ("hola")
 texto_largo="""
 1 rojo
 2 azul
